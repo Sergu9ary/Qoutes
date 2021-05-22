@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
+*{
+    background: url('/img/background.jpg');
+}
 body{
     display: flex;
     flex-direction: column;
