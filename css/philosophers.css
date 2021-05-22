@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     background-image: url("../img/background.jpg");
-    background-size: 80%;
+    background-size:80%;
 }
 .header {
     background-color: #FF3CAC;
