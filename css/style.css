@@ -156,7 +156,7 @@ footer{
     margin: -1px;
 }
 footer img{
-    margin: auto;
+    margin: 15px;
     height: 60px;
     transition: 1s;
 }
